@@ -3,7 +3,7 @@ Extensão para o navegador Google Chrome que permite enviar para a Área de Tran
 
 ## Instalação
 - Abrir o navegador Google Chrome;
-- Acessar a [página de extensões](chrome://extensions/) (chrome://extensions/);
+- Acessar a página de extensões (`chrome://extensions/`);
 - Habilitar o modo desenvolvedor no canto superior direito;
 - Acessar o [repositório do projeto](https://github.com/mrioqueiroz/copy-digits-ext) no GitHub e baixar o `.ZIP` da extensão através do botão `Clone or download` -> `Download ZIP`;
 - Extrair o conteúdo do arquivo compactado e mover para o lugar que achar mais conveniente;
