@@ -4,8 +4,11 @@
     "name": "Copy Digits",
     "description": "Extensão que envia para a Área de Transferência apenas os dígitos do texto selecionado",
     "author": "Mário Queiroz (@mrioqueiroz)",
-    "browser_action": {
-   	 "default_title": "Copy Digits",
-   	 "default_popup": "index.html"
+    "permissions": ["contextMenus", "clipboardWrite"],
+    "background": {
+        "persistent": true,
+        "scripts": [
+            "background.js"
+        ]
     }
 }
