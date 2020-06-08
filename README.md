@@ -1,4 +1,5 @@
-# Extensão para copiar somente dígitos
+# Copy Digits
+Extensão para o navegador Google Chrome que permite enviar para a Área de Transferência apenas os dígitos (caracteres numéricos) do texto selecionado. O objetivo é facilitar o preenchmento de formulários que aceitam somente dados neste formato.
 
 ## Instalação
 
