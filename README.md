@@ -4,7 +4,7 @@ Extensão para o navegador Google Chrome que permite enviar para a Área de Tran
 
 ## Instalação
 
-- Acessar o [repositório do projeto](.) no GitHub e baixar o `.ZIP` da extensão através do botão `Clone` -> [`Download ZIP`](./archive/master.zip);
+- Baixar o `.ZIP` da extensão através do botão `Clone` -> `Download ZIP`;
 - Extrair o conteúdo do arquivo compactado e mover para o lugar que achar mais conveniente;
 - Abrir o navegador Google Chrome;
 - Acessar a página de extensões (`chrome://extensions/`);
@@ -17,7 +17,7 @@ Após realizada a instalação, basta selecionar qualquer texto na em alguma pá
 
 ## Problemas e sugestões
 
-Favor [abrir uma issue](./issues) informando o problema e os passos para a reprodução do mesmo.
+Favor abrir uma _issue_ informando o problema e os passos para a reprodução do mesmo.
 
 ## Referências
 
